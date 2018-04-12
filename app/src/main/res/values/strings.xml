@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">AltarixWeather</string>
+    <string name="updated">Обновлено</string>
+    <string name="temperature">Температура</string>
+    <string name="pressure">Давление</string>
+    <string name="humidity">Влажность</string>
+    <string name="dawn">Рассвет</string>
+    <string name="sunset">Закат</string>
+
+
 </resources>
