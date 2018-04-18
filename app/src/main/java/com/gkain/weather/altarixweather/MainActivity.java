@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        TextView cityname = (TextView) findViewById(R.id.cityname);
+        TextView cityname = (TextView) findViewById(R.id.city);
 
 
 
