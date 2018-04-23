@@ -125,7 +125,7 @@
             android:layout_alignParentLeft="true"
             android:layout_alignParentStart="true"
             android:layout_below="@+id/humidity"
-            android:text="@string/dawn" />
+            android:text="@string/sunrise" />
 
         <TextView
             android:id="@+id/dawnValue"

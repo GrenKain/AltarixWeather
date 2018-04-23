@@ -4,7 +4,7 @@
     <string name="temperature">Температура</string>
     <string name="pressure">Давление</string>
     <string name="humidity">Влажность</string>
-    <string name="dawn">Рассвет</string>
+    <string name="sunrise">Рассвет</string>
     <string name="sunset">Закат</string>
 
 
